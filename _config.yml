@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: "Юрій (@YuK0t)"
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Блог про ШІ, no-code, автоматизацію та дизайн"
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: "Створюю чат-боти, сайти та автоматизацію від $10/год. 🚀"
+lang: "uk"
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://yu-kot.github.io"
 
 github:
   username: github_username # change to your GitHub username
